@@ -43,7 +43,7 @@ main img{
 h2{
 	font-size: 30px;
 	color: #0085F0;
-	margin: 40px 0 10px;
+	margin: 10px;
 }
 
 a{
@@ -81,7 +81,7 @@ p.caption{
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  float: left;
+  float: middle;
   color: #0085F0;
   text-align: center;
   text-decoration: none;
