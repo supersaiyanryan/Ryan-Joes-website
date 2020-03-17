@@ -69,7 +69,7 @@ footer a{
 }
 
 p.caption{
-	color: #999999;
+	color: #0085F0;
 	font-style: italic;
 	margin-top: 0px
 }
@@ -82,7 +82,7 @@ p.caption{
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: #0085F0;
   text-align: center;
   padding: 14px 106px;
   text-decoration: none;
@@ -91,12 +91,12 @@ p.caption{
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #0085F0;
   color: black;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: #0085F0;
   color: white;
 }   
