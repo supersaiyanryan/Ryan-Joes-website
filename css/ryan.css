@@ -79,5 +79,5 @@ nav{
 	height: 100px;
 	background-color: white;
 	box-shadow: 0 5px 8px;
-	position: middle;
+	position: sticky;
 }
