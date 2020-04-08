@@ -74,22 +74,3 @@ p.caption{
 	font-style: italic;
 	margin-top: 0px
 }
-
-nav{
-	height: 100px;
-	background-color: white;
-	box-shadow: 0 5px 8px;
-	position: sticky;
-}
-
-nav ul{
-	padding: 0;
-	margin: 0;
-}
-
-nav ul li{
-	margin: 0;
-	padding: 0;
-	display: block;
-	float: middle;
-}
