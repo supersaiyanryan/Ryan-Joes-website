@@ -75,9 +75,9 @@ p.caption{
 	margin-top: 0px
 }
 
-li{
-	text-align: center;
-	padding-top: 20px;
-	padding-bottom: 20px;
-	font-family: font-family: 'Spartan';
+nav{
+	height: 100px;
+	background-color: white;
+	box-shadow: 0 5px 8px;
+	position: middle;
 }
