@@ -74,4 +74,8 @@ p.caption{
 	font-style: italic;
 	margin-top: 0px
 }
-   
+
+div{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
