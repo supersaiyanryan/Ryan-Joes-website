@@ -74,21 +74,3 @@ p.caption{
 	font-style: italic;
 	margin-top: 0px
 }
-
-nav ul{
-	padding: 0;
-	margin: 0;
-}
-
-nav ul li a{
-	padding: 0;
-	margin: 0;
-	display: block;
-	height: 100px;
-	background-color: white;
-	margin-top: -20px;
-	margin-bottom: 30px;
-
-	
-}
-
